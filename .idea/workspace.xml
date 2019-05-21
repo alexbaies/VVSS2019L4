@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb997fe9-9a88-40fd-a39a-98756bab68cf" name="Default Changelist" comment="Default Changelist" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ProiectAgenda$ControllerActivityTest.coverage" NAME="ControllerActivityTest Coverage Results" MODIFIED="1557240514008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>agenda.controller.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ProiectAgenda$agenda_test_in_ProiectAgenda.coverage" NAME="Whole project Coverage Results" MODIFIED="1557163481608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>agenda.controller.ControllerActivityTest</FILTER>
+      <FILTER>agenda.model.repository.*</FILTER>
+      <FILTER>agenda.RepositoryActivityFileTest</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ProiectAgenda$Whole_project.coverage" NAME="Whole project Coverage Results" MODIFIED="1557163894534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>agenda.repository.classes.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/ProiectAgenda$RepositoryActivityFileTest.coverage" NAME="RepositoryActivityFileTest Coverage Results" MODIFIED="1557244879084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>agenda.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\Alex\Desktop\Lab3VVSS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="ControllerActivityTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/agenda/controller/ControllerActivityTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RepositoryActivityFileTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/agenda/RepositoryActivityFileTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RepositoryActivityMock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/agenda/repository/classes/RepositoryActivityMock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>printf</find>
+      <find>addActivity</find>
+      <find>getActivities</find>
+      <find>removeContact</find>
+      <find>InvalidFormatException</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>print</replace>
+      <replace>getAll().size</replace>
+      <replace>add</replace>
+      <replace>getAll()</replace>
+      <replace>remove</replace>
+      <replace>Exception</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/interfaces/Repositor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/interfaces/Repository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/interfaces/RepositoryActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/interfaces/RepositoryContact.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/interfaces/RepositoryUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/interfaces/IRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/interfaces/IRepositoryActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/interfaces/IRepositoryContact.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/interfaces/IRepositoryUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/base/Activity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/classes/IRepositoryContactFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/classes/IRepositoryActivityMock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/classes/IRepositoryContactMock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/classes/RepositoryUserMock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/classes/IRepositoryUserFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/classes/IRepositoryActivityFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/controller/IControllerUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/controller/IControllerActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/classes/RepositoryUserFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/base/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/base/Contact.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/classes/RepositoryActivityFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/classes/RepositoryActivityMock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/classes/RepositoryContactMock.java" />
+        <option value="$PROJECT_DIR$/src/test/java/agenda/model/repository/classes/RepositoryActivityFileTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/controller/IControllerContact.java" />
+        <option value="$PROJECT_DIR$/src/test/java/agenda/test/AddActivityTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/agenda/test/AddContactTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/agenda/test/AfisActivityTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/agenda/test/IntegrationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/model/repository/classes/RepositoryContactFile.java" />
+        <option value="$PROJECT_DIR$/files/contacts.txt" />
+        <option value="$PROJECT_DIR$/filesTest/contactsTest.txt" />
+        <option value="$PROJECT_DIR$/src/test/java/agenda/controller/ControllerContactTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/agenda/controller/ControllerActivityTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/agenda/RepositoryActivityFileTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/controller/ControllerActivity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/controller/ControllerContact.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/controller/ControllerUser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/repository/classes/RepositoryActivityFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/repository/classes/RepositoryContactFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/repository/classes/RepositoryContactMock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/repository/classes/RepositoryUserFile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/repository/classes/RepositoryUserMock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/startApp/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/agenda/repository/classes/RepositoryActivityMock.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="VVSS2019L4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VVSS2019L4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553718879054" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="agenda.controller" />
+      <recent name="agenda.model.repository.classes" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\VVSS2019\ProiectAgenda\3-ProiectAgenda\ProiectAgenda\src\main\java\agenda" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="agenda.model" />
+      <recent name="agenda" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="agenda.controller" />
+      <recent name="agenda.model.repository.interfaces" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\VVSS2019\ProiectAgenda" />
+      <recent name="D:\VVSS2019\ProiectAgenda\3-ProiectAgenda\ProiectAgenda\src\main\java\agenda" />
+      <recent name="D:\VVSS2019\ProiectAgenda\3-ProiectAgenda\ProiectAgenda\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RepositoryActivityFileTest">
+    <configuration name="ControllerActivityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="agenda.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ProiectAgenda" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="agenda.controller" />
+      <option name="MAIN_CLASS_NAME" value="agenda.controller.ControllerActivityTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="ControllerContactTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="agenda.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ProiectAgenda" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="agenda.controller" />
+      <option name="MAIN_CLASS_NAME" value="agenda.controller.ControllerContactTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="agenda.startApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="agenda.startApp.MainClass" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ProiectAgenda" />
+      <envs />
+    </configuration>
+    <configuration name="RepositoryActivityFileTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="agenda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="ProiectAgenda" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="agenda" />
+      <option name="MAIN_CLASS_NAME" value="agenda.RepositoryActivityFileTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Whole project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" track_test_folders="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="agenda.repository.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="agenda.test" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.MainClass" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ControllerContactTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Whole project" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.RepositoryActivityFileTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ControllerActivityTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.RepositoryActivityFileTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ControllerActivityTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Whole project" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ControllerContactTest" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb997fe9-9a88-40fd-a39a-98756bab68cf" name="Default Changelist" comment="" />
+      <created>1551682141299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551682141299</updated>
+      <workItem from="1551682145750" duration="453000" />
+      <workItem from="1551908714672" duration="3859000" />
+      <workItem from="1552146337077" duration="14837000" />
+      <workItem from="1552545720684" duration="183000" />
+      <workItem from="1552817320708" duration="1531000" />
+      <workItem from="1552889327678" duration="1090000" />
+      <workItem from="1552941690523" duration="15000" />
+      <workItem from="1553631291685" duration="978000" />
+      <workItem from="1553704556703" duration="9362000" />
+      <workItem from="1554053805505" duration="1032000" />
+      <workItem from="1554215769582" duration="402000" />
+      <workItem from="1554216815586" duration="3240000" />
+      <workItem from="1555352292649" duration="3697000" />
+      <workItem from="1555423576712" duration="7692000" />
+      <workItem from="1555475757844" duration="41000" />
+      <workItem from="1555477594568" duration="18000" />
+      <workItem from="1557157551316" duration="5324000" />
+      <workItem from="1557165587219" duration="145000" />
+      <workItem from="1557238846765" duration="2656000" />
+      <workItem from="1557245627850" duration="51000" />
+      <workItem from="1558446024694" duration="81000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ControllerActivityTest - 2019.05.07 at 17h 48m 36s.xml">
+      <configuration name="ControllerActivityTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepositoryActivityFileTest - 2019.05.07 at 17h 49m 41s.xml">
+      <configuration name="RepositoryActivityFileTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepositoryActivityFileTest - 2019.05.07 at 17h 51m 52s.xml">
+      <configuration name="RepositoryActivityFileTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepositoryActivityFileTest - 2019.05.07 at 17h 54m 49s.xml">
+      <configuration name="RepositoryActivityFileTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RepositoryActivityFileTest - 2019.05.07 at 19h 01m 20s.xml">
+      <configuration name="RepositoryActivityFileTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Whole_project - 2019.05.06 at 20h 24m 42s.xml">
+      <configuration name="Whole project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Whole_project - 2019.05.06 at 20h 29m 46s.xml">
+      <configuration name="Whole project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Whole_project - 2019.05.06 at 20h 30m 05s.xml">
+      <configuration name="Whole project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Whole_project - 2019.05.06 at 20h 31m 35s.xml">
+      <configuration name="Whole project" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="agenda_test_in_ProiectAgenda - 2019.05.06 at 20h 18m 07s.xml">
+      <configuration name="agenda.test in ProiectAgenda" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56687000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.05629139" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2109375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32781458" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32794458" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="D:/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>validTelefon(contact.getTelefon())</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/agenda/controller/ControllerContactTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2660">
+          <caret line="142" column="52" lean-forward="true" selection-start-line="142" selection-start-column="52" selection-end-line="142" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/users" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/contacts" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/activities" />
+    <entry file="uml://JAVA/agenda.gui.models.TableModelContact">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>agenda.gui.models.TableModelContact</OriginalElement>
+          <nodes>
+            <node x="" y="">agenda.gui.models.TableModelContact</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="75.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/agenda.exceptions.InvalidFormatException">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>agenda.exceptions.InvalidFormatException</OriginalElement>
+          <nodes>
+            <node x="" y="">agenda.model.repository.classes.RepositoryContactMock</node>
+            <node x="" y="">agenda.exceptions.InvalidFormatException</node>
+            <node x="" y="">agenda.model.repository.interfaces.RepositoryContact</node>
+            <node x="" y="">agenda.model.repository.classes.RepositoryUserFile</node>
+            <node x="" y="">agenda.model.repository.interfaces.RepositoryActivity</node>
+            <node x="" y="">agenda.gui.models.TableModelContact</node>
+            <node x="" y="">agenda.model.repository.classes.RepositoryActivityMock</node>
+            <node x="" y="">agenda.gui.models.TableModelActivity</node>
+            <node x="" y="">agenda.model.repository.classes.RepositoryUserMock</node>
+            <node x="" y="">agenda.model.repository.interfaces.RepositoryUser</node>
+            <node x="" y="">agenda.model.repository.classes.RepositoryActivityFile</node>
+            <node x="" y="">agenda.model.base.Contact</node>
+            <node x="" y="">agenda.startApp.MainClass</node>
+            <node x="" y="">agenda.model.base.User</node>
+            <node x="" y="">agenda.gui.window.MainWindow</node>
+            <node x="" y="">agenda.model.repository.classes.RepositoryContactFile</node>
+            <node x="" y="">agenda.gui.window.LoginWindow</node>
+            <node x="" y="">agenda.model.base.Activity</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.6066565809379728" x="648.0" y="594.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/gui/models/TableModelActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/gui/models/TableModelContact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/gui/window/MainWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/repository/interfaces/IRepositoryUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="60" lean-forward="false" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/model/base/Activity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-652">
+          <caret line="26" column="35" lean-forward="false" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/VVSS2019/ProiectAgenda/src/main/java/agenda/controller;D:/VVSS2019/ProiectAgenda/src/main/java/agenda/exceptions;D:/VVSS2019/ProiectAgenda/src/main/java/agenda/gui;D:/VVSS2019/ProiectAgenda/src/main/java/agenda/model;D:/VVSS2019/ProiectAgenda/src/main/java/agenda/startApp;">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/agenda/controller;D:/VVSS2019/ProiectAgenda/src/main/java/agenda/exceptions;D:/VVSS2019/ProiectAgenda/src/main/java/agenda/gui;D:/VVSS2019/ProiectAgenda/src/main/java/agenda/model;D:/VVSS2019/ProiectAgenda/src/main/java/agenda/startApp;</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="618.0" y="256.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/D:/VVSS2019/ProiectAgenda/src/main/java/agenda/model/validator">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src/main/java/agenda/model/validator</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="429.0" y="193.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/agenda.startApp.MainClass">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>agenda.startApp.MainClass</OriginalElement>
+          <nodes>
+            <node x="1645.556218905473" y="1075.0">agenda.model.repository.classes.RepositoryContactMock</node>
+            <node x="1312.3219250386724" y="1119.0">agenda.controller.ControllerContact</node>
+            <node x="0.0" y="1597.0">agenda.gui.models.TableModelContact</node>
+            <node x="1288.4094250386725" y="920.0">agenda.model.repository.interfaces.IRepositoryContact</node>
+            <node x="644.8469250386727" y="876.0">agenda.model.repository.classes.RepositoryUserMock</node>
+            <node x="1876.556218905473" y="1064.0">agenda.model.repository.classes.RepositoryActivityFile</node>
+            <node x="466.039204711735" y="470.0">agenda.model.base.User</node>
+            <node x="967.7045141937381" y="1053.0">agenda.model.repository.classes.RepositoryContactFile</node>
+            <node x="554.0" y="1597.0">agenda.gui.window.MainWindow</node>
+            <node x="206.625" y="1108.0">agenda.controller.ControllerUser</node>
+            <node x="849.8469250386726" y="909.0">agenda.exceptions.InvalidFormatException</node>
+            <node x="524.625" y="1086.0">agenda.model.repository.classes.RepositoryUserFile</node>
+            <node x="10.5" y="876.0">agenda.controller.IControllerUser</node>
+            <node x="2188.556218905473" y="1064.0">agenda.model.repository.classes.RepositoryActivityMock</node>
+            <node x="195.0" y="1597.0">agenda.gui.models.TableModelActivity</node>
+            <node x="2701.6812189054726" y="876.0">agenda.controller.IControllerActivity</node>
+            <node x="2179.692014193738" y="920.0">agenda.model.repository.interfaces.IRepositoryActivity</node>
+            <node x="431.625" y="920.0">agenda.model.repository.interfaces.IRepositoryUser</node>
+            <node x="1476.806218905473" y="887.0">agenda.controller.IControllerContact</node>
+            <node x="1676.431218905473" y="0.0">agenda.model.base.Contact</node>
+            <node x="1444.9499999999998" y="1413.0">agenda.startApp.MainClass</node>
+            <node x="1063.8469250386725" y="525.5">agenda.model.repository.interfaces.IRepository</node>
+            <node x="388.0" y="1597.0">agenda.gui.window.LoginWindow</node>
+            <node x="2505.556218905473" y="1108.0">agenda.controller.ControllerActivity</node>
+            <node x="2260.556218905473" y="382.0">agenda.model.base.Activity</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="agenda.model.repository.interfaces.IRepositoryActivity" target="agenda.model.base.Activity">
+              <point x="36.75" y="-14.5" />
+              <point x="2289.942014193738" y="856.0" />
+              <point x="2343.506218905473" y="856.0" />
+              <point x="-35.549999999999955" y="202.0" />
+            </edge>
+            <edge source="agenda.model.repository.classes.RepositoryActivityMock" target="agenda.model.base.Activity">
+              <point x="99.0" y="-114.0" />
+              <point x="2436.056218905473" y="1033.0" />
+              <point x="2404.9469250386724" y="1033.0" />
+              <point x="2404.9469250386724" y="856.0" />
+              <point x="2390.906218905473" y="856.0" />
+              <point x="11.849999999999909" y="202.0" />
+            </edge>
+            <edge source="agenda.model.repository.classes.RepositoryActivityFile" target="agenda.model.base.Contact">
+              <point x="-116.39999999999986" y="-114.0" />
+              <point x="1905.656218905473" y="1033.0" />
+              <point x="1946.8592938668005" y="1033.0" />
+              <point x="1946.8592938668005" y="352.0" />
+              <point x="1806.0383617626158" y="352.0" />
+              <point x="34.10714285714266" y="136.0" />
+            </edge>
+            <edge source="agenda.controller.ControllerActivity" target="agenda.controller.IControllerActivity">
+              <point x="111.375" y="-70.0" />
+              <point x="2765.4312189054726" y="1033.0" />
+              <point x="2775.9312189054726" y="1033.0" />
+              <point x="-74.25" y="58.5" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.controller.IControllerContact">
+              <point x="0.0" y="-69.5" />
+              <point x="1641.9499999999998" y="1393.0" />
+              <point x="1635.056218905473" y="1393.0" />
+              <point x="52.75" y="47.5" />
+            </edge>
+            <edge source="agenda.model.repository.classes.RepositoryContactMock" target="agenda.model.base.Contact">
+              <point x="79.125" y="-103.0" />
+              <point x="1830.181218905473" y="1033.0" />
+              <point x="1801.3219250386724" y="1033.0" />
+              <point x="1801.3219250386724" y="362.0" />
+              <point x="1792.3955046197589" y="362.0" />
+              <point x="20.46428571428578" y="136.0" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.model.base.Contact">
+              <point x="185.41176470588243" y="-69.5" />
+              <point x="1827.3617647058823" y="1393.0" />
+              <point x="3042.1812189054726" y="1393.0" />
+              <point x="3042.1812189054726" y="312.0" />
+              <point x="1860.6097903340446" y="312.0" />
+              <point x="88.67857142857156" y="136.0" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.controller.ControllerContact">
+              <point x="-23.17647058823536" y="-69.5" />
+              <point x="1618.7735294117647" y="1323.0" />
+              <point x="1445.8219250386724" y="1323.0" />
+              <point x="0.0" y="59.0" />
+            </edge>
+            <edge source="agenda.model.repository.classes.RepositoryUserMock" target="agenda.model.repository.interfaces.IRepository">
+              <point x="46.25" y="-58.5" />
+              <point x="783.5969250386727" y="856.0" />
+              <point x="1126.4719250386725" y="856.0" />
+              <point x="-20.875" y="58.5" />
+            </edge>
+            <edge source="agenda.controller.ControllerUser" target="agenda.model.base.User">
+              <point x="-37.125" y="-70.0" />
+              <point x="318.0" y="826.0" />
+              <point x="528.226704711735" y="826.0" />
+              <point x="-37.3125" y="114.0" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.model.repository.interfaces.IRepositoryContact">
+              <point x="-46.352941176470495" y="-69.5" />
+              <point x="1595.5970588235296" y="1333.0" />
+              <point x="1265.389204711735" y="1333.0" />
+              <point x="1265.389204711735" y="1033.0" />
+              <point x="1333.1094250386723" y="1033.0" />
+              <point x="-29.800000000000182" y="14.5" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.controller.ControllerActivity">
+              <point x="69.52941176470586" y="-69.5" />
+              <point x="1711.4794117647057" y="1343.0" />
+              <point x="2654.056218905473" y="1343.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="agenda.model.repository.classes.RepositoryContactFile" target="agenda.exceptions.InvalidFormatException">
+              <point x="-55.25" y="-125.0" />
+              <point x="1022.9545141937381" y="1023.0" />
+              <point x="986.3469250386726" y="1023.0" />
+              <point x="45.5" y="25.5" />
+            </edge>
+            <edge source="agenda.model.repository.interfaces.IRepositoryContact" target="agenda.model.repository.interfaces.IRepository">
+              <point x="-37.25" y="-14.5" />
+              <point x="1325.6594250386725" y="856.0" />
+              <point x="1168.2219250386725" y="856.0" />
+              <point x="20.875" y="58.5" />
+            </edge>
+            <edge source="agenda.controller.IControllerContact" target="agenda.model.base.Contact">
+              <point x="0.0" y="-47.5" />
+              <point x="1582.306218905473" y="342.0" />
+              <point x="1751.4669331911873" y="342.0" />
+              <point x="-20.46428571428578" y="136.0" />
+            </edge>
+            <edge source="agenda.model.repository.classes.RepositoryContactMock" target="agenda.model.repository.interfaces.IRepositoryContact">
+              <point x="-79.125" y="-103.0" />
+              <point x="1671.931218905473" y="1023.0" />
+              <point x="1422.5094250386724" y="1023.0" />
+              <point x="59.59999999999991" y="14.5" />
+            </edge>
+            <edge source="agenda.model.repository.classes.RepositoryActivityFile" target="agenda.model.base.Activity">
+              <point x="-58.200000000000045" y="-114.0" />
+              <point x="1963.8562189054728" y="1033.0" />
+              <point x="1957.8592938668005" y="1033.0" />
+              <point x="1957.8592938668005" y="826.0" />
+              <point x="2272.406218905473" y="826.0" />
+              <point x="-106.65000000000009" y="202.0" />
+            </edge>
+            <edge source="agenda.controller.ControllerActivity" target="agenda.model.repository.interfaces.IRepositoryActivity">
+              <point x="-111.375" y="-70.0" />
+              <point x="2542.681218905473" y="1023.0" />
+              <point x="2282.592014193738" y="1023.0" />
+              <point x="29.40000000000009" y="14.5" />
+            </edge>
+            <edge source="agenda.controller.IControllerActivity" target="agenda.model.base.Activity">
+              <point x="0.0" y="-58.5" />
+              <point x="2850.1812189054726" y="846.0" />
+              <point x="2438.306218905473" y="846.0" />
+              <point x="59.25" y="202.0" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.model.base.Activity">
+              <point x="139.0588235294117" y="-69.5" />
+              <point x="1781.0088235294115" y="1373.0" />
+              <point x="3020.1812189054726" y="1373.0" />
+              <point x="3020.1812189054726" y="826.0" />
+              <point x="2485.7062189054727" y="826.0" />
+              <point x="106.64999999999986" y="202.0" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.model.repository.interfaces.IRepositoryUser">
+              <point x="-115.88235294117658" y="-69.5" />
+              <point x="1526.0676470588232" y="1363.0" />
+              <point x="514.125" y="1363.0" />
+              <point x="16.5" y="14.5" />
+            </edge>
+            <edge source="agenda.controller.ControllerUser" target="agenda.controller.IControllerUser">
+              <point x="-111.375" y="-70.0" />
+              <point x="243.75" y="1033.0" />
+              <point x="233.25" y="1033.0" />
+              <point x="74.25" y="58.5" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.model.repository.classes.RepositoryUserFile">
+              <point x="-92.70588235294122" y="-69.5" />
+              <point x="1549.2441176470588" y="1353.0" />
+              <point x="617.125" y="1353.0" />
+              <point x="0.0" y="92.0" />
+            </edge>
+            <edge source="agenda.controller.ControllerContact" target="agenda.model.repository.interfaces.IRepositoryContact">
+              <point x="-100.125" y="-59.0" />
+              <point x="1345.6969250386724" y="1033.0" />
+              <point x="1362.9094250386725" y="1033.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.model.base.User">
+              <point x="-185.41176470588243" y="-69.5" />
+              <point x="1456.5382352941174" y="1393.0" />
+              <point x="0.0" y="1393.0" />
+              <point x="0.0" y="806.0" />
+              <point x="478.476704711735" y="806.0" />
+              <point x="-87.0625" y="114.0" />
+            </edge>
+            <edge source="agenda.model.repository.classes.RepositoryActivityMock" target="agenda.model.repository.interfaces.IRepositoryActivity">
+              <point x="-99.0" y="-114.0" />
+              <point x="2238.056218905473" y="1033.0" />
+              <point x="2253.192014193738" y="1033.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="agenda.model.repository.interfaces.IRepositoryContact" target="agenda.model.base.Contact">
+              <point x="37.25" y="-14.5" />
+              <point x="1400.1594250386725" y="322.0" />
+              <point x="1724.181218905473" y="322.0" />
+              <point x="-47.75" y="136.0" />
+            </edge>
+            <edge source="agenda.model.repository.interfaces.IRepositoryUser" target="agenda.model.base.User">
+              <point x="-33.0" y="-14.5" />
+              <point x="464.625" y="836.0" />
+              <point x="553.101704711735" y="836.0" />
+              <point x="-12.4375" y="114.0" />
+            </edge>
+            <edge source="agenda.controller.ControllerActivity" target="agenda.model.base.Activity">
+              <point x="37.125" y="-70.0" />
+              <point x="2691.181218905473" y="856.0" />
+              <point x="2414.606218905473" y="856.0" />
+              <point x="35.549999999999955" y="202.0" />
+            </edge>
+            <edge source="agenda.model.repository.classes.RepositoryUserFile" target="agenda.model.base.User">
+              <point x="-23.125" y="-92.0" />
+              <point x="594.0" y="1033.0" />
+              <point x="612.3469250386727" y="1033.0" />
+              <point x="612.3469250386727" y="836.0" />
+              <point x="577.976704711735" y="836.0" />
+              <point x="12.4375" y="114.0" />
+            </edge>
+            <edge source="agenda.model.repository.classes.RepositoryUserFile" target="agenda.model.repository.interfaces.IRepositoryUser">
+              <point x="-69.375" y="-92.0" />
+              <point x="49.5" y="14.5" />
+            </edge>
+            <edge source="agenda.model.repository.classes.RepositoryActivityFile" target="agenda.model.repository.interfaces.IRepositoryActivity">
+              <point x="116.40000000000009" y="-114.0" />
+              <point x="2138.456218905473" y="1023.0" />
+              <point x="2194.392014193738" y="1023.0" />
+              <point x="-58.799999999999955" y="14.5" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.model.repository.interfaces.IRepositoryActivity">
+              <point x="46.352941176470495" y="-69.5" />
+              <point x="1688.3029411764705" y="1333.0" />
+              <point x="2178.056218905473" y="1333.0" />
+              <point x="2178.056218905473" y="1033.0" />
+              <point x="2223.792014193738" y="1033.0" />
+              <point x="-29.40000000000009" y="14.5" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.controller.IControllerActivity">
+              <point x="92.70588235294122" y="-69.5" />
+              <point x="1734.6558823529413" y="1353.0" />
+              <point x="2924.4312189054726" y="1353.0" />
+              <point x="74.25" y="58.5" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.model.repository.classes.RepositoryContactFile">
+              <point x="-69.52941176470586" y="-69.5" />
+              <point x="1572.420588235294" y="1343.0" />
+              <point x="1078.204514193738" y="1343.0" />
+              <point x="0.0" y="125.0" />
+            </edge>
+            <edge source="agenda.controller.IControllerUser" target="agenda.model.base.User">
+              <point x="0.0" y="-58.5" />
+              <point x="159.0" y="816.0" />
+              <point x="503.351704711735" y="816.0" />
+              <point x="-62.1875" y="114.0" />
+            </edge>
+            <edge source="agenda.controller.ControllerContact" target="agenda.controller.IControllerContact">
+              <point x="100.125" y="-59.0" />
+              <point x="1545.9469250386724" y="1033.0" />
+              <point x="1529.556218905473" y="1033.0" />
+              <point x="-52.75" y="47.5" />
+            </edge>
+            <edge source="agenda.controller.ControllerContact" target="agenda.model.base.Contact">
+              <point x="33.375" y="-59.0" />
+              <point x="1479.1969250386724" y="1033.0" />
+              <point x="1466.306218905473" y="1033.0" />
+              <point x="1466.306218905473" y="332.0" />
+              <point x="1737.8240760483304" y="332.0" />
+              <point x="-34.10714285714266" y="136.0" />
+            </edge>
+            <edge source="agenda.controller.ControllerUser" target="agenda.model.repository.interfaces.IRepositoryUser">
+              <point x="111.375" y="-70.0" />
+              <point x="466.5" y="1033.0" />
+              <point x="481.125" y="1033.0" />
+              <point x="-16.5" y="14.5" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.controller.IControllerUser">
+              <point x="-162.23529411764707" y="-69.5" />
+              <point x="1479.714705882353" y="1383.0" />
+              <point x="84.75" y="1383.0" />
+              <point x="-74.25" y="58.5" />
+            </edge>
+            <edge source="agenda.model.repository.interfaces.IRepositoryActivity" target="agenda.model.repository.interfaces.IRepository">
+              <point x="-36.75" y="-14.5" />
+              <point x="2216.442014193738" y="816.0" />
+              <point x="1209.9719250386725" y="816.0" />
+              <point x="62.625" y="58.5" />
+            </edge>
+            <edge source="agenda.model.base.Activity" target="agenda.model.base.Contact">
+              <point x="59.25" y="-202.0" />
+              <point x="2438.306218905473" y="332.0" />
+              <point x="1833.3240760483304" y="332.0" />
+              <point x="61.39285714285734" y="136.0" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.model.repository.classes.RepositoryActivityFile">
+              <point x="23.17647058823536" y="-69.5" />
+              <point x="1665.1264705882354" y="1323.0" />
+              <point x="2022.056218905473" y="1323.0" />
+              <point x="0.0" y="114.0" />
+            </edge>
+            <edge source="agenda.startApp.MainClass" target="agenda.controller.ControllerUser">
+              <point x="-139.05882352941194" y="-69.5" />
+              <point x="1502.891176470588" y="1373.0" />
+              <point x="355.125" y="1373.0" />
+              <point x="0.0" y="70.0" />
+            </edge>
+            <edge source="agenda.model.repository.classes.RepositoryUserMock" target="agenda.model.base.User">
+              <point x="-46.25" y="-58.5" />
+              <point x="691.0969250386727" y="836.0" />
+              <point x="652.601704711735" y="836.0" />
+              <point x="87.0625" y="114.0" />
+            </edge>
+            <edge source="agenda.model.repository.classes.RepositoryContactFile" target="agenda.model.repository.interfaces.IRepositoryContact">
+              <point x="92.08333333333348" y="-125.0" />
+              <point x="1170.2878475270716" y="1023.0" />
+              <point x="1303.3094250386725" y="1023.0" />
+              <point x="-59.59999999999991" y="14.5" />
+            </edge>
+            <edge source="agenda.model.repository.interfaces.IRepositoryUser" target="agenda.model.repository.interfaces.IRepository">
+              <point x="33.0" y="-14.5" />
+              <point x="530.625" y="846.0" />
+              <point x="1084.7219250386725" y="846.0" />
+              <point x="-62.625" y="58.5" />
+            </edge>
+            <edge source="agenda.model.repository.classes.RepositoryContactFile" target="agenda.model.base.Contact">
+              <point x="55.25" y="-125.0" />
+              <point x="1133.454514193738" y="1013.0" />
+              <point x="1241.3469250386725" y="1013.0" />
+              <point x="1241.3469250386725" y="312.0" />
+              <point x="1710.5383617626158" y="312.0" />
+              <point x="-61.39285714285734" y="136.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.5167785234899329" x="1612.0" y="816.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/repository/interfaces/IRepositoryContact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="65" lean-forward="false" selection-start-line="6" selection-start-column="65" selection-end-line="6" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/model/base/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="37" column="5" lean-forward="false" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filesTest/users.txt" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/agenda/test/IntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="90" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="270" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/users.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/contactsTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/gui/window/LoginWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/agenda/test/AddContactTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="71" column="5" lean-forward="true" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/agenda/test/AfisActivityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/model/base/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="15" column="62" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/filesTest/contactsTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/exceptions/InvalidFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/agenda/test/AddActivityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="56" column="2" lean-forward="true" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/agenda/resources/activitiesTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/agenda/resources/contactsTest.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/agenda/repository/classes/RepositoryActivityFileTest.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/contacts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="1" lean-forward="false" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/files/activities.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/controller/ControllerContact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="61" column="0" lean-forward="false" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/controller/ControllerUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/controller/IControllerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/controller/IControllerContact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/controller/IControllerUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/repository/classes/RepositoryContactFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="96" column="0" lean-forward="true" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/repository/classes/RepositoryContactMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/repository/classes/RepositoryUserFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="87" column="0" lean-forward="true" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/repository/classes/RepositoryUserMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/repository/interfaces/IRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/repository/interfaces/IRepositoryActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/startApp/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="33" column="38" lean-forward="false" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/agenda/controller/ControllerContactTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="74" column="26" lean-forward="false" selection-start-line="74" selection-start-column="26" selection-end-line="74" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/repository/classes/RepositoryActivityFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-460">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/controller/ControllerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/agenda/controller/ControllerActivityTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/agenda/repository/classes/RepositoryActivityMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/agenda/RepositoryActivityFileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ProiectAgenda</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
