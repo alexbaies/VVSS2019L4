@@ -16,7 +16,7 @@ public class ControllerContactTest {
 
     @Before
     public void setUp() throws Exception {
-        final String filenameContact = "E:\\VVSS2019\\ProiectAgenda\\filesTest\\contactsTest.txt";
+        final String filenameContact = "E:\\VVSS2019L4\\filesTest\\contactsTest.txt";
         IRepositoryContact contactRep = new RepositoryContactFile(filenameContact);
         controllerContact = new ControllerContact(contactRep);
     }
